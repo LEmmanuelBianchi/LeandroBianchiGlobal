@@ -1,0 +1,76 @@
+.login_div {
+    background-color: #088138;
+    height: 30px;
+    color: #ffffff;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.login {
+    width: 20px;
+    height: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.login_nav{
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    padding-right: 15px;
+    font-size: 14px;
+}
+
+/*-------------LOGO-------------*/
+
+.logo_div {
+    background-color: #ffffff;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    color: #7f8c8d;
+
+}
+
+.text_box{
+    border: 2px solid #088138;
+    text-decoration: none;
+    padding: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin: 0;
+    font-size: 14px;
+}
+
+.lupa {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 200px;
+}
+
+.logo {
+    height: 120px;
+    width: 120px;
+    align-self: center;
+    padding-left: 36.05%;
+}
+
+.carrito {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 67px;
+}
+
+.contador {
+    position: absolute;
+    right: 27px;
+    border: 2px solid #088138;
+    padding: 10px;
+    padding-right: 10px;
+    padding-left: 50px;
+}
+
